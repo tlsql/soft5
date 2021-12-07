@@ -1,3 +1,4 @@
+123
 t(a, b):
 if a == b:
 logging.info(a)
